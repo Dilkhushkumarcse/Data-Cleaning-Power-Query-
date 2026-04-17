@@ -74,8 +74,6 @@ After cleaning, the datasets became:
 
 ## Screenshots
 
-Add your screenshots in this section:
-
 ![Customers Cleaning](images/Customers.png)
 ![Products Cleaning](images/Products.png)
 ![Transactions Cleaning](images/Transactions.png)
